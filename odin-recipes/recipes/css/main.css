@@ -1,0 +1,23 @@
+ Selector {
+     Property: Value;
+     propertytwo: value;
+     propertythree: value;
+     propertyfour: value
+ }
+
+ h1 {
+     color: rgb(37, 80, 165);
+     font-size: xx-large;
+ }
+
+ div {
+     color: rgb(176, 129, 69);
+     font-style: italic;
+     font-size: xx-large;
+     background-color: beige;
+     padding: 20px;
+ }
+
+ body {
+     background-color: #fff4e6;
+ }
